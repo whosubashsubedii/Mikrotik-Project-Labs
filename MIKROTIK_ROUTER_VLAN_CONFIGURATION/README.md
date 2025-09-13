@@ -61,6 +61,10 @@ add interface=bridge1 name=vlan2 vlan-id=2
 
 ---
 
-**Author:**
-Subash Subedi
-Mikrotik Project Labs, 2025
+### **Author**
+
+**Subash Subedi**  
+**Mikrotik Project Labs — 2025**  
+GitHub: [whosubashsubedii](https://github.com/whosubashsubedii)
+
+---

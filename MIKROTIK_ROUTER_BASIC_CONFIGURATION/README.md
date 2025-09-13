@@ -68,6 +68,11 @@ This project documents the fundamental configuration required to get a MikroTik 
 
 ---
 
-**Author:**
-Subash Subedi
-Mikrotik Project Labs, 2025
+### **Author**
+
+**Subash Subedi**  
+**Mikrotik Project Labs — 2025**  
+GitHub: [whosubashsubedii](https://github.com/whosubashsubedii)
+
+---
+
