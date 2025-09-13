@@ -58,6 +58,8 @@ add interface=bridge1 name=vlan2 vlan-id=2
 /ip firewall nat add chain=srcnat out-interface=ether1 action=masquerade
 
 
-**Author:**  
-Subash Subedi  
+---
+
+**Author:**
+Subash Subedi
 Mikrotik Project Labs, 2025
