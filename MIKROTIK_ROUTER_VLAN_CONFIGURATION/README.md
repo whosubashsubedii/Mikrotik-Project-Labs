@@ -56,3 +56,8 @@ add interface=bridge1 name=vlan2 vlan-id=2
 /ip dhcp-server add interface=vlan2 address-pool=pool_vlan2 name=dhcp_vlan2 disabled=no
 
 /ip firewall nat add chain=srcnat out-interface=ether1 action=masquerade
+
+
+**Author:**  
+Subash Subedi  
+Mikrotik Project Labs, 2025
